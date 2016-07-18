@@ -1,0 +1,19 @@
+{
+  "name": "calendarpad",
+  "version": "1.0.0",
+  "description": "UI bootstrap project done with angularJS ",
+  "main": "calendarPad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffeinated1/calendarPad.git"
+  },
+  "author": "David Espana and Yannick Daly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caffeinated1/calendarPad/issues"
+  },
+  "homepage": "https://github.com/caffeinated1/calendarPad#readme"
+}
